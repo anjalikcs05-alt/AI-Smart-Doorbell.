@@ -1,0 +1,4 @@
+dataset/
+trainer/
+__pycache__/
+*.jpg
